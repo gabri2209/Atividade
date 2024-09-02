@@ -1,3 +1,7 @@
+.ganso--main{
+  background-image: "Casa.png";
+  background: no-repeat;
+}
 details.spoiler::after {
     content: var(--oculto);
   }
