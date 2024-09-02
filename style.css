@@ -1,5 +1,5 @@
-.ganso--main{
-  background-image:url(Casa);
+.GansoPerfil{
+  background-image:url('Casa.png');
   background: no-repeat;
 }
 details.spoiler::after {
