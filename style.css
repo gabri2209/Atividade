@@ -1,0 +1,7 @@
+details.spoiler::after {
+    content: var(--oculto);
+  }
+  
+  details[open]::after {
+    display: none;
+  }
