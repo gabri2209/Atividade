@@ -1,3 +1,6 @@
+body{
+  background-color: linear-gradient(to bottom right,rgb(31, 88, 40), rgb(28, 75, 119));
+}
 .GansoPerfil{
   background-image:url('img/Casa.png');
   background: no-repeat;
