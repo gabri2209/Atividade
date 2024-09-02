@@ -1,5 +1,5 @@
 .ganso--main{
-  background-image:image(Casa);
+  background-image:url(Casa);
   background: no-repeat;
 }
 details.spoiler::after {
