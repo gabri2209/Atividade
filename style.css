@@ -8,8 +8,10 @@ div{
   padding: 0;
 }
 .Sobre{
-  display: flex;
-  align-items: center;
+  display: flex; 
+  align-items: left;
+  text-align: left;
+
   justify-content: center;
   gap: 20px;
   max-width: 800px;
@@ -43,3 +45,4 @@ details.spoiler::after {
   details[open]::after {
     display: none;
   }
+
