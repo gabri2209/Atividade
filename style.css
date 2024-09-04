@@ -1,10 +1,23 @@
+div{
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+.container { 
+  margin: 0;
+  padding: 0;
+}
 .GansoPerfil{
   background-image:url('img/Casa.png');
   background-repeat: no-repeat;
   background-size: cover;
+  margin: 0;
+  padding: 0;
 }
 .GansoSobre{
   background: linear-gradient(to bottom right,rgb(31, 88, 40), rgb(28, 75, 119));
+  margin: 0;
+  padding: 0;
 }
 body{
   text-align: center;
@@ -14,11 +27,6 @@ body{
 }
 .Faca{
   align-items:flex-end;
-}
-div {
-  margin: 0;
-  padding: 0;
-  display: block;
 }
 
 details.spoiler::after {
