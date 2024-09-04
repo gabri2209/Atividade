@@ -18,7 +18,7 @@ div{
   margin: 0 auto;
 }
 
-.container p {
+.Sobre p {
   max-width: 400px; /* Limits the width of the paragraph to make the text more compact */
   margin: 0; /* Removes default margin */
 }
