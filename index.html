@@ -7,8 +7,8 @@
     <title>Ganso - Perfil</title>
 </head>
 <body>
-    <details class="spoiler" style="--oculto: texto oculto">
-        <summary>
+    <details class="spoiler" style="--oculto: texto oculto" id="details-clickado">
+        <summary id="summary-clickado">
             <h1><bold>Aviso: Este site possui uma presença não saudável do Ganso, acessar e ler tais informações são de sua responsabilidade, vocẽ foi avisado.</bold></h1>
        <img src="Alerta.png" alt="Alerta">
         </summary>
@@ -40,5 +40,11 @@
 </details>
 </div>
 </details>
+<script>
+    document.getElementById('summary-clickado').addEventListener('click', function() {
+        // When summary is clicked, hide it
+        this.style.display = 'none';
+    });
+</script>
 </body>
 </html>
