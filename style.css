@@ -15,7 +15,11 @@ body{
 .Faca{
   align-items:flex-end;
 }
-
+div {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
 
 details.spoiler::after {
     content: var(--oculto);
