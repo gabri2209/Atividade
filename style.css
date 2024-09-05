@@ -12,6 +12,11 @@
     margin: 0;
   padding: 0;
 }
+.Ganso{
+  border-radius: 20px;
+  box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
+transition: transform 0.3s ease;
+}
 body{
   text-align: center;
   background: linear-gradient(to bottom right,rgb(31, 88, 40), rgb(28, 75, 119));
