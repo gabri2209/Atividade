@@ -5,7 +5,7 @@
   margin: 0;
   padding: 0;
 }
-.GansoSobre{
+.Sobre{
   background-image:url('img/Lago.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,6 +23,10 @@ transform: scale(1.1);
 }
 .Hobbies{
   text-align: left;
+}
+.Rodapé{
+  background-color: #3b8cc2;
+  background-size: cover;
 }
 body{
   text-align: center;
