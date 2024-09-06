@@ -5,6 +5,11 @@
   margin: 0;
   padding: 0;
 }
+.GansoTexto{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+}
 .Sobre{
   background-image:url('img/Lago.png');
   background-repeat: no-repeat;
