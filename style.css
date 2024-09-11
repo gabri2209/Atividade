@@ -12,13 +12,29 @@
     margin: 0;
   padding: 0;
 }
-img{
+.GansoImg{
   border-radius: 20px;
   box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
 transition: transform 0.3s ease;
 }
-img:hover{
+.GansoImg:hover{
 transform: scale(1.1);
+}
+.Faca{
+  border-radius: 20px;
+  box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
+  transition: transform 0.3s ease;
+}
+.Faca:hover{
+  transform: scale(1.1);
+}
+.Jogo{
+  border-radius: 20px;
+  box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
+  transition: transform 0.3s ease;
+}
+.Jogo:hover{
+  transform: scale(1.1);
 }
 .Hobbies{
   text-align: left;
