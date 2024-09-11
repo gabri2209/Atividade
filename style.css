@@ -20,22 +20,6 @@ transition: transform 0.3s ease;
 .GansoImg:hover{
 transform: scale(1.1);
 }
-.FacaImg{
-  border-radius: 20px;
-  box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
-  transition: transform 0.3s ease;
-}
-.FacaImg:hover{
-  transform: scale(1.1);
-}
-.JogoImg{
-  border-radius: 20px;
-  box-shadow: rgba(255, 154, 39, 0.4) 5px 5px, rgba(255, 154, 39, 0.3) 10px 10px, rgba(255, 154, 39, 0.2) 15px 15px, rgba(255, 154, 39, 0.1);
-  transition: transform 0.3s ease;
-}
-.JogoImg:hover{
-  transform: scale(1.1);
-}
 .Hobbies{
   text-align: left;
 }
