@@ -44,6 +44,9 @@ transition: transform 0.3s ease;
 .JogoImg:hover{
   transform: scale(1.1);
 }
+.Hobbies{
+  text-align: left;
+}
 .Rodapé{
   background-color: #3b8cc2;
   background-size: cover;
