@@ -44,15 +44,13 @@ transition: transform 0.3s ease;
 .JogoImg:hover{
   transform: scale(1.1);
 }
-.Hobbies{
-  text-align: left;
-}
 .Rodapé{
   background-color: #3b8cc2;
   background-size: cover;
 }
 body{
   text-align: center;
+  align-items: center;
   background: linear-gradient(to bottom right,rgb(31, 88, 40), rgb(28, 75, 119));
   background-attachment: fixed;
   min-height: 100vh;
